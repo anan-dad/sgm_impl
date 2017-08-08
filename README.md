@@ -26,6 +26,14 @@ tsukuba | couch | venus
 -- | -- | -- 
 <img src="imgs/1-img.png" width="300">  | <img src="imgs/2-img.png" width="300">  | <img src="imgs/3-img.png" width="300">
 
+4-img | 5-img | 6-img 
+-- | -- | -- 
+<img src="imgs/4-img.png" width="300">  | <img src="imgs/5-img.png" width="300">  | <img src="imgs/6-img.png" width="300">
+
+7-img
+--
+<img src="imgs/7-img.png" width="300">
+
 
 ## References
 
