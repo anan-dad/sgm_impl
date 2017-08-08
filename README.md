@@ -1,4 +1,4 @@
-# sgm_impl
+# SGM_impl
 
 This is an implementation of Semi Global Matching (SGM) using the message passing algrithm on the CPU.
 
