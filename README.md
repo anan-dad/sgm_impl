@@ -1,6 +1,6 @@
 # SGM_impl
 
-This is a cpu implementation of Semi Global Matching (SGM) using the message passing algrithm which corresponds to my solution of a lab course in university of Freiburg.
+This is a cpu implementation of Semi Global Matching (SGM) using the message passing algrithm which corresponds to my solution of a lab course in university of Freiburg. Result disparity maps are included.
 
 ## Key idea
 
