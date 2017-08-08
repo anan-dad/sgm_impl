@@ -17,7 +17,7 @@ tsukuba | couch | venus | 1_img | 2_img | 3_img | 4_img | 5_img | 6_img | 7_img
 
 ## Disparity maps
 
-(imgs/vin.png)
+(imgs/couch.png)
 
 ## References
 
