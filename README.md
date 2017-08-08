@@ -31,11 +31,11 @@ tsukuba | couch | venus | 1_img | 2_img | 3_img | 4_img | 5_img | 6_img | 7_img
 
 7-img | tsukuba
 -- | --
-<img src="imgs/7-img.png" hight="80">  | <img src="imgs/tsukuba.png" hight="80">
+<img src="imgs/7-img.png" width="500">  | <img src="imgs/tsukuba.png" width="500">
 
 venus | couch
 -- | --
-<img src="imgs/venus.png" hight="200">  | <img src="imgs/couch.png" hight="200">
+<img src="imgs/venus.png" width="500">  | <img src="imgs/couch.png" width="500">
 
 ## References
 
