@@ -13,7 +13,7 @@ This is an implementation of Semi Global Matching (SGM) using the message passin
 
 tsukuba | couch | venus | 1_img | 2_img | 3_img | 4_img | 5_img | 6_img | 7_img
 -- | -- | -- | -- | -- | -- | -- | -- | -- | --
-5.531 sec | 15.626 sec | 15.679 sec | 24.121 sec | 25.296 sec | 24.203 sec | 26.486 sec | 22.608 sec | 28.027 sec | 23.222 sec
+5.531s | 15.626s | 15.679s | 24.121s | 25.296s | 24.203s | 26.486s | 22.608s | 28.027s | 23.222s
 
 ## References
 
