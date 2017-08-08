@@ -18,9 +18,9 @@ tsukuba | couch | venus | 1_img | 2_img | 3_img | 4_img | 5_img | 6_img | 7_img
 ## Disparity maps
 
 
-Name | Disparity Map
--- | --
-tsukuba | <img src="imgs/tsukuba.png" width="300"> 
+tsukuba | venus | couch 
+-- | -- | -- 
+<img src="imgs/tsukuba.png" width="300">  | <img src="imgs/venus.png" width="300">  | <img src="imgs/couch.png" width="300">
 
 
 ## References
