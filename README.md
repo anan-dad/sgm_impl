@@ -17,26 +17,25 @@ tsukuba | couch | venus | 1_img | 2_img | 3_img | 4_img | 5_img | 6_img | 7_img
 
 ## Disparity maps
 
-
-tsukuba | couch
+1-img | 2-img
 -- | --
-<img src="imgs/tsukuba.png" width="500">  | <img src="imgs/couch.png" width="500">
+<img src="imgs/1-img.png" width="500">  | <img src="imgs/2-img.png" width="500">
 
-venus | 1-img
+3-img | 4-img
 -- | --
-<img src="imgs/venus.png" width="500">  | <img src="imgs/1-img.png" width="500">
+<img src="imgs/3-img.png" width="500">  | <img src="imgs/4-img.png" width="500">
 
-2-img | 3-img
+5-img | 6-img
 -- | --
-<img src="imgs/2-img.png" width="500">  | <img src="imgs/3-img.png" width="500">
+<img src="imgs/5-img.png" width="500">  | <img src="imgs/6-img.png" width="500">
 
-4-img | 5-img
+1-img | tsukuba
 -- | --
-<img src="imgs/4-img.png" width="500">  | <img src="imgs/5-img.png" width="500">
+<img src="imgs/1-img.png" width="500">  | <img src="imgs/tsukuba.png" width="500">
 
-6-img | 7-img
+venus | couch
 -- | --
-<img src="imgs/6-img.png" width="500">  | <img src="imgs/7-img.png" width="500">
+<img src="imgs/venus.png" width="500">  | <img src="imgs/couch.png" width="500">
 
 ## References
 
